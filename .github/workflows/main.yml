@@ -1,0 +1,8 @@
+            - name: Setup Cordova - bbasinski
+  # You may pin to the exact commit or the version.
+  # uses: bbasinski/setup-cordova@a3849f588ce147a96c52de7853c0ff077bc04e4a
+  uses: bbasinski/setup-cordova@0.0.4
+  with:
+    # Apache Cordova command to execute
+    exec: 
+          
